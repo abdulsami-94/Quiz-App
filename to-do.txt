@@ -1,0 +1,6 @@
+Random Question order
+Timer per questions
+Score percentage
+Save high score
+Answer Explanation
+JS picks any random 10 questions to feel for fresh
