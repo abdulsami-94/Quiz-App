@@ -1,6 +1,16 @@
-Random Question order
-Timer per questions
+Randomise Quesion Answer
+JS picks any 10 random questions
+Timer Per questions
 Score percentage
-Save high score
+
+Save High Score in Local Storage
 Answer Explanation
-JS picks any random 10 questions to feel for fresh
+Restart Button
+
+Progress Bar
+Sound Effects
+Responsive Design
+Dark Mode Toggle
+
+Catagory Selection
+LeaderBoard
