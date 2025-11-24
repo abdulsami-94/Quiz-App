@@ -30,7 +30,7 @@ You can run the app locally by opening `index.html` in a browser.
 ├── style.css           # Basic styling
 ├── script.js           # Quiz logic
 ├── questions.js        # Question bank
-├── To-do.txt           # Feature ideas and upgrades
+├── TODO.md           # Feature ideas and upgrades
 ├── .gitignore
 └── .github/workflows   # Optional CI configuration
 ```
